@@ -60,7 +60,7 @@ int main()
 	catch (const std::exception&exc)
 	{
 		cout << exc.what() << endl;
-		cout << "такого ключа еще нет";
+		cout << "такого ключа в LIST-е еще нет";
 	}
 
 	//git контроль145 GIT
